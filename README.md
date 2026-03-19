@@ -5,3 +5,19 @@ Introduction of Cryptigropy
 
 
 Cryptography is the practice and study of techniques used to protect information by turning redable data Only people with the correct key or method can turn it back in to readable form.This help keep sensitive information safe from unauthorized people,such as hacker.
+
+
+Objectives;
+
+
+
+*To secure data using encryption techniques
+
+
+
+*To protect passwords using hashing
+
+
+
+*To demonstrate confidentiality and integrity
+
