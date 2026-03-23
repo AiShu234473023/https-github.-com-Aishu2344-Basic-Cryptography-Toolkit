@@ -19,5 +19,30 @@ Objectives;
 
 
 
-*To demonstrate confidentiality and integrity
+*To demonstrate confidentiality and ointegrity
 
+To implement and demonstrate classical encryption/decryption techniques.
+
+
+To understand and apply cryptographic hashing for integrity and password security.
+
+
+
+To create a user-friendly Python tool for educational purposes.
+
+
+
+To analyze strengths, weaknesses, and real-world relevance.
+
+2. LITERATURE REVIEW / THEORY OF CRYPTOGRAPHY
+Cryptography is divided into:
+
+
+
+Symmetric (same key for enc/dec) – e.g., Caesar, Vigenère, XOR
+
+
+Asymmetric (public/private keys) – not covered here
+
+
+Hash functions – one-way, collision-resistant (e.g., SHA-256)
