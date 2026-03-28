@@ -46,3 +46,12 @@ Asymmetric (public/private keys) – not covered here
 
 
 Hash functions – one-way, collision-resistant (e.g., SHA-256)
+
+ key feature of cryptography
+ * Confidentiality
+ * Data integrity
+ * Authentication
+ * Non reputation
+ * key exchange/management
+ * Adaptability & Interabolity
+   
